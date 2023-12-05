@@ -1,3 +1,14 @@
+# Empty-space-detection-in-an-indoor-environment-to-help-blind-people
+A python based project aiming to help blind people by finding empty space/ free space in indoor environment to help them walk inside the room using monocular camera/ single camera.
+# The Aim of the project is learning deep learning and computer vision techniques and implementing them in real world scenario
+1- Estimate depth 
+2- Find distance to the objects in meters using monocular vision algorithm
+3- Use of YOLO to detect objects in real world(Inside room)
+4- Draw bounding box around objects and display the distance of object from camera to the object in meters
+5- Divide video/image into 2 parts (Left, Right)
+6- Apply threshold on detected objects like "table, chair or door" and check if the distance to the object is less or greater then the give threshold.
+7- Assign Red color to bounding box if distance is less then the threshold and Green color if not.
+
 # **ZoeDepth: Combining relative and metric depth** (Official implementation)  <!-- omit in toc -->
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isl-org/ZoeDepth)
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/shariqfarooq/ZoeDepth)
