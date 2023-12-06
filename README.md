@@ -8,6 +8,12 @@ A python based project aiming to help blind people by finding empty space/ free 
 5- Divide video/image into 2 parts (Left, Right)
 6- Apply threshold on detected objects like "table, chair or door" and check if the distance to the object is less or greater then the give threshold.
 7- Assign Red color to bounding box if distance is less then the threshold and Green color if not.
+![test_image_out](https://github.com/Billu98/Empty-space-detection-in-an-indoor-environment-to-help-blind-people/assets/57806856/3eae1905-16c1-4ed2-822a-b77d24c640db)
+
+
+https://github.com/Billu98/Empty-space-detection-in-an-indoor-environment-to-help-blind-people/assets/57806856/d856b076-4e72-4725-ab7b-1760fcbaeddf
+
+
 
 # **ZoeDepth: Combining relative and metric depth** (Official implementation)  <!-- omit in toc -->
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isl-org/ZoeDepth)
